@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Onyenso-Precious-Stephen.github.io/reactcourse/gpt-3-real-machiavelli",
+  "homepage": "https://Onyenso-precious-Stephen.github.io/reactcourse/gpt-3-real-machiavelli",
   "name": "gpt-3-real-machiavelli",
   "version": "0.1.0",
   "private": true,
@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
   }
